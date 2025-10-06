@@ -2,7 +2,7 @@
 
 A comprehensive full-stack application for exploring product data from World of Books, built with NestJS backend and Next.js frontend.
 
-## 🚀 Features
+##  Features
 
 ### Backend (NestJS)
 - **RESTful API** with comprehensive Swagger documentation
@@ -289,21 +289,9 @@ npm run test:e2e
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - World of Books for providing the data source
 - NestJS and Next.js communities for excellent documentation
 - Crawlee team for the robust scraping framework
 - Contributors and testers
-
-## 📞 Support
-
-For support, please open an issue on GitHub or contact the development team.
-
----
-
-Made with ❤️ by the Product Data Explorer Team
