@@ -1,0 +1,52 @@
+﻿
+> product-data-explorer-frontend@0.1.0 build
+> next build
+
+   Γû▓ Next.js 15.5.4
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully in 6.3s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/4) ...
+node.exe :  ΓÜá Unsupported metadata viewport is configured in 
+metadata export in /_not-found. Please move it to viewport export 
+instead.
+At C:\Program Files\nodejs\npm.ps1:29 char:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( ΓÜá Unsupporte...expo 
+   rt instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Read more: https://nextjs.org/docs/app/api-reference/functions/gener
+ate-viewport
+ ΓÜá Unsupported metadata viewport is configured in metadata export 
+in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/gener
+ate-viewport
+   Generating static pages (1/4) 
+   Generating static pages (2/4) 
+   Generating static pages (3/4) 
+ Γ£ô Generating static pages (4/4)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+Γöî Γùï /                                    1.91 kB         129 kB
+Γöö Γùï /_not-found                            991 B         103 kB
++ First Load JS shared by all             102 kB
+  Γö£ chunks/255-4efeec91c7871d79.js       45.7 kB
+  Γö£ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  Γöö other shared chunks (total)          1.99 kB
+
+
+Γùï  (Static)  prerendered as static content
+
+npm notice 
+npm notice New major version of npm available! 10.5.2 -> 11.6.1
+npm notice Changelog: 
+<https://github.com/npm/cli/releases/tag/v11.6.1>
+npm notice Run `npm install -g npm@11.6.1` to update!
+npm notice 
